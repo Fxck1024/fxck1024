@@ -8,7 +8,6 @@
 [![Python](https://img.shields.io/badge/Python-007AFF?style=flat-square)]()
 
 - 🔭 Find me here: [Blog](https://mrlee.top).
-- 📫 Email me at: [netcat369@gmail.com](mailto:netcat369@gmail.com)
 - ⚡ JavaScript / Python / PHP / Golang / C / Java.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
