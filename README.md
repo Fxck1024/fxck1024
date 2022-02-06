@@ -14,9 +14,3 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxck1024&show_icons=true)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxck1024)]()
-<h4 align="left">Languages</h4>
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="30" height="30"/></a> 
-<a href="https://golang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="go" width="30" height="30"/></a> 
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="30" height="30"/></a>
-</p>
