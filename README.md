@@ -7,7 +7,7 @@
 [![C](https://img.shields.io/badge/C-FF2D55?style=flat-square)]()
 [![Python](https://img.shields.io/badge/Python-007AFF?style=flat-square)]()
 
-- 🔭 Find me here: [Blog](https://mrlee.top).
+- 🔭 Find me here: [Blog](https://kalisec.org).
 - ⚡ JavaScript / Python / PHP / Golang / C / Java.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
